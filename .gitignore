@@ -1,0 +1,13 @@
+dist/
+build/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.jpg
+*.jpeg
+*.png
+*.spec
+temp_scanned.jpg
+.venv/
+extracted_txt/
